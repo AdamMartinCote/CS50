@@ -1,0 +1,20 @@
+0.  TODO
+1.  GIF
+2.  in lossless, every single bit can be retrieved, in lossy some redundant information is lost
+3.  JPEG
+4.  TODO
+5.  TODO
+6.  TODO
+7.  TODO
+8.  1, 4, 4, 2
+9.  BM (0x42, 0x4D)
+10. TODO
+11. TODO
+12. TODO
+13. TODO
+14. TODO
+15. TODO
+16. TODO
+17. TODO
+18. TODO
+
